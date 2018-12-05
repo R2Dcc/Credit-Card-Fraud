@@ -1,2 +1,2 @@
 # Credit-Card-Fraud
-CRedit Card Fraud detection 
+Credit Card Fraud detection using AdaBoost
